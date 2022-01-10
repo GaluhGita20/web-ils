@@ -42,7 +42,7 @@ class BannerController extends Controller
         // dd($request);
         $temp->update([
             'title'=>$request->title,
-            'sub_title'=>$request->desc_left,
+            'sub_title'=>$request->sub_title,
         ]);
         return redirect()->route('list_banner')->with('success', 'Berhasil Mengubah Konten Banner');;
     }

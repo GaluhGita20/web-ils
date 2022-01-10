@@ -10,5 +10,5 @@ class ComponentBanner extends Model
     use HasFactory;
     protected $table='component_banners';
     protected $primarykey='id';
-    protected $fillable=['title', 'sub-title', 'video-banner'];
+    protected $fillable=['title', 'sub_title', 'video_banner'];
 }

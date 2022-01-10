@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>ILS 2021 | <?php echo $page ?> </title>
+    <title>BaliEraBaru 2022 | <?php echo $page ?> </title>
 
 
     <!-- Favicon -->

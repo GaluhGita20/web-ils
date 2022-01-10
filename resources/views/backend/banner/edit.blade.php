@@ -32,13 +32,13 @@
                   <div class="row">
                     <div class="col-lg-12 mb-2">
                       <div class="form-group">
-                        <label class="text-label">title*</label>
+                        <label class="text-label">Title*</label>
                         <input type="text" class="form-control" id="title" name="title" aria-describedby="inputGroupPrepend2" value="{{$content->title}}" required>
                       </div>
                     </div>
                     <div class="col-lg-12 mb-2">
                       <div class="form-group">
-                        <label class="text-label">Deskripsi Paragraf Kiri*</label>
+                        <label class="text-label">Sub Title*</label>
                         <textarea class="form-control" rows="2" id="sub_title" name="sub_title" >{{$content->sub_title}}</textarea>
                       </div>
                     </div>

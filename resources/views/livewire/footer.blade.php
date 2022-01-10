@@ -7,7 +7,7 @@
               Interpersonal & Life Skill</h5>
           </div>
           <div class="col-6" style="color:#fff; font-size:20px;">
-            <br><br>Design &nbsp: <a href="https://templatemo.com/page/1" target="_parent" style="color:#fff; font-size:20px;">EraBali 2021</a></p>
+            <br><br>Design &nbsp: <a href="https://templatemo.com/page/1" target="_parent" style="color:#fff; font-size:20px;">BaliEraBaru 2021</a></p>
           </div>
           <div class="col-lg-6 ms-auto" style="margin-top:auto">
             <ul class="social-icons list-unstyled list-inline mb-0 float-md-end" style="color:#fff;">
@@ -24,7 +24,7 @@
       <div class="row mx-0 pt-5 mb-n4 footer-text mt-5 justify-content-center align-items-center" style="border-top: #112443 solid 2px ;">
         <div class="col-9 text-center">
           <div class="container">
-            <p class="explanation mx-n4" style="font-size:18px;">Privacy Policy &nbsp&nbsp•&nbsp&nbsp  Sitemap  &nbsp&nbsp•&nbsp&nbsp  Support  &nbsp&nbsp•&nbsp&nbsp  @2021 EraBaru</p>
+            <p class="explanation mx-n4" style="font-size:18px;">Privacy Policy &nbsp&nbsp•&nbsp&nbsp  Sitemap  &nbsp&nbsp•&nbsp&nbsp  Support  &nbsp&nbsp•&nbsp&nbsp  @2021 BaliEraBaru</p>
           </div>
         </div>
       </div>
